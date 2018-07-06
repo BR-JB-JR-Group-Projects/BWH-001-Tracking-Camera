@@ -25,7 +25,7 @@ Ben/John/James:
 Investigate how Raspberry Pi recieves image data from the camera and what proccessing options we have. Sampling is the best bet for control, while streaming should prioritise framerate over fideity (debatable).
 
 Ben:
-Investigate enclosure and mounting for wet/humid environments, particularly electric motor issues. 
+Investigate enclosure and mounting for wet/humid environments, particularly electric motor issues.
 
 John:
 If you have money, discuss procurement.
